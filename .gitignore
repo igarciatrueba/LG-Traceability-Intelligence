@@ -1,0 +1,15 @@
+# Datos originales de NHTSA (demasiado grandes; se descargan de la fuente)
+FLAT_RCL_*.txt
+COMPLAINTS_RECEIVED_*
+CMPL.txt
+RCL.txt
+RCL_Qtrly_Rpts.txt
+Safercar_data.csv
+*.zip
+
+# Copias de seguridad y temporales
+index_ANTES.html
+index_RONDA*.html
+node_modules/
+.DS_Store
+*.log
